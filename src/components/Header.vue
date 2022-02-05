@@ -16,7 +16,7 @@
 					fill="white"
 				/>
 			</svg>
-			<span class="header__title">Фермерский роддом "Пятёрочка" Сиротов Дмитрий Павлович 201-327</span>
+			<span class="header__title">Фермерский роддом</span>
 		</div>
 	</a-layout-header>
 </template>

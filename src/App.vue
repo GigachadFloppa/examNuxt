@@ -6,7 +6,7 @@
 			<a-layout-content>
 				<div
 					:style="{
-						background: '#fff',
+						background: '#c6d7eb',
 						padding: '24px',
 						minHeight: 'calc(100vh - 64px)'
 					}"
@@ -17,7 +17,7 @@
 		</a-layout>
 
 		<a-layout-footer style="text-align: center">
-			Тут будут ссылки
+			Ссслыка
 		</a-layout-footer>
 	</a-layout>
 </template>

@@ -1,7 +1,7 @@
 <template>
 	<a-layout-sider>
 		<a-menu
-			theme="light"
+			theme="dark"
 			mode="vertical"
 			v-model:selectedKeys="array"
 			:style="{ lineHeight: '64px' }"
