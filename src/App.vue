@@ -17,7 +17,7 @@
 		</a-layout>
 
 		<a-layout-footer style="text-align: center">
-			Тут будут ссылки
+			Тут будут ссылки?
 		</a-layout-footer>
 	</a-layout>
 </template>
